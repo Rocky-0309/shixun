@@ -31,6 +31,8 @@ merged_dict = {k: v for k, v in zip(keys, values)}
 print("\n合并后的字典:")
 print(merged_dict)
 
+
+
 #练习题4
 # 定义一个学生信息的元组
 student_info = ("张三", 20, 92.5)
